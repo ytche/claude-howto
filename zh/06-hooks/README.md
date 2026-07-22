@@ -64,7 +64,7 @@ chmod +x ~/.claude/hooks/*.sh
         ]
       }
     ]
-  },
+  }
 }
 ```
 
